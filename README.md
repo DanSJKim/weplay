@@ -26,7 +26,7 @@
 <tr>
     <td>3</td>
     <td>17</td>
-    <td>11</td>
+    <td>(11)</td>
     <td>7</td>
     <td>14</td>
 </tr>
